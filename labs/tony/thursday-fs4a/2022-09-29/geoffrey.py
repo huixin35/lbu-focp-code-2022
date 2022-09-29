@@ -9,3 +9,4 @@ if __name__ == '__main__':
 
     print("Sir Geoffrey's Average was", average)
     print("Sir Geoffrey's Average was", round(average, 2))
+    print(f"Sir Geoffrey's Average was {average:.2f}.")
