@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-def labs_needed(student_count, lab_size = 24):
-
+def labs_needed(student_count, lab_size=24):
     if student_count <= lab_size:
         return 1
     else:
