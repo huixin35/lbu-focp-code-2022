@@ -1,13 +1,10 @@
 #!/usr/bin/env python3
 
 def labs_needed(student_count, lab_size=24):
-    if student_count <= lab_size:
-        return 1
-    else:
-        full_labs = student_count // lab_size
-        extra_lab = 0 if student_count % lab_size == 0 else 1
+    full_labs = student_count // lab_size
+    extra_lab = 0 if student_count % lab_size == 0 else 1
 
-        return full_labs + extra_lab
+    return full_labs + extra_lab
 
 
 if __name__ == '__main__':
