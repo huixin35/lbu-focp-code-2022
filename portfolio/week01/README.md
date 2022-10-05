@@ -20,7 +20,7 @@ The code is provided "as is", with no warranty, implied or otherwise.
 
 An elegant solution to the last program would simply determine how many
 labs are needed, which is not possible with the Python covered to date.
-This is fixed in `zz_lab_counter'py`.
+This is fixed in `zz_lab_counter.py`.
 
 Check the use here of a function, f-strings, and conditionals (including
 one in-line.)
