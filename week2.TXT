@@ -1,0 +1,24 @@
+week2
+
+1.n= input("enter your name:")
+
+print("Hello, nice to meet you!",a)
+
+2.
+c = float(input("enter the Celsius number:"))
+
+f=c*1.8+32
+
+print("the tempurature in Fahrenheit is:",f)
+
+3.
+a = int(input("How many prise of student:"))
+b = a//22
+c = a-22*b
+print("there will be",b, "group with",c, "students")
+
+4.
+a=int(input("enter the sweets prise:"))
+b=int(input("enter the  studnets number:"))
+c= a-b
+print("the sweets number is:",a,"the student number is:",b,"the sweets left over:",c)

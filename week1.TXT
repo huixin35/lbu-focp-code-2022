@@ -1,0 +1,33 @@
+week 1
+1.
+print("Hello World")
+
+2.
+print("Hello HUIXINZHU")
+
+3.
+c=float(input())
+f=c*1.8+32
+print("The york temperatures is ", c,f)
+
+4.
+a = 48426/(1014-162)
+print("The batting averge of the Geoffrey Boycott is:", a )
+
+5.
+#the data 113 will be
+a = 113 // 24
+
+x= 113-24*4
+
+#the data 175 will be
+b = 175//24
+
+d= 175-24*7
+
+#the data 12 will be
+c = 12
+
+print("The full group will be:",a+b)
+print("The student will be left over groups is:", x + d + c)
+
